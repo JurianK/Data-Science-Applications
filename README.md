@@ -5,14 +5,14 @@ The notebooks usually contain a short introduction of the case, explanation of t
 
 <b> Useful Data Science links </b>
 
-<i> R </r>
+<i> R </i>
 R for Data Science
 https://r4ds.had.co.nz
 
 Advanced R
 http://adv-r.had.co.nz/
 
-<i> Python </r>
+<i> Python </i>
 Python tutorial
 https://docs.python.org/3/tutorial/
 
