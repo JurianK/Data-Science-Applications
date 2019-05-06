@@ -5,12 +5,14 @@ The notebooks usually contain a short introduction of the case, explanation of t
 
 <b> Useful Data Science links </b>
 
+<i> R </r>
 R for Data Science
 https://r4ds.had.co.nz
 
 Advanced R
 http://adv-r.had.co.nz/
 
+<i> Python </r>
 Python tutorial
 https://docs.python.org/3/tutorial/
 
@@ -20,12 +22,16 @@ https://docs.python-guide.org/
 PEP 8: Style guide for python code
 https://www.python.org/dev/peps/pep-0008/
 
-Codewars: Coding exercises
-https://www.codewars.com/users/Jurian-k
+pylint: code errors and enforce style standard
+http://pylint.pycqa.org/en/latest/
 
+pytest: easy to write small tests
+https://docs.pytest.org/en/latest/
+
+<i> Projects </i>
 Cookiecutter: A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 https://drivendata.github.io/cookiecutter-data-science/#cookiecutter-data-science
-
+  
 RISE: Jupyter notebook presentation
 https://bollwyvl.github.io/live_reveal/#/
 
@@ -34,6 +40,10 @@ https://github.com/mwouts/jupytext
 
 Colab: Free Jupyter environment in the cloud
 https://colab.research.google.com/notebooks/welcome.ipynb
+
+<i> Other </i>
+Codewars: Coding exercises
+https://www.codewars.com/users/Jurian-k
 
 Codeshare
 https://codeshare.io
