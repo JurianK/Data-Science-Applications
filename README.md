@@ -38,11 +38,16 @@ https://drivendata.github.io/cookiecutter-data-science/#cookiecutter-data-scienc
 RISE: Jupyter notebook presentation
 https://bollwyvl.github.io/live_reveal/#/
 
-Jupytext: Git friendly Jupyter Notebooks
-https://github.com/mwouts/jupytext
-
 Colab: Free Jupyter environment in the cloud
 https://colab.research.google.com/notebooks/welcome.ipynb
+
+<i> Git </i>
+
+Git tutorial
+https://githowto.com/
+
+Jupytext: Git friendly Jupyter Notebooks
+https://github.com/mwouts/jupytext
 
 <i> Other </i>
 
@@ -54,9 +59,6 @@ https://codeshare.io
 
 Flowchart builder
 https://www.draw.io/
-
-Git tutorial
-https://githowto.com/
 
 Regex tester
 https://regex101.com/
