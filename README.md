@@ -6,6 +6,7 @@ The notebooks usually contain a short introduction of the case, explanation of t
 <b> Useful Data Science links </b>
 
 <i> R </i>
+
 R for Data Science
 https://r4ds.had.co.nz
 
@@ -13,6 +14,7 @@ Advanced R
 http://adv-r.had.co.nz/
 
 <i> Python </i>
+
 Python tutorial
 https://docs.python.org/3/tutorial/
 
@@ -29,6 +31,7 @@ pytest: easy to write small tests
 https://docs.pytest.org/en/latest/
 
 <i> Projects </i>
+
 Cookiecutter: A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 https://drivendata.github.io/cookiecutter-data-science/#cookiecutter-data-science
   
@@ -42,6 +45,7 @@ Colab: Free Jupyter environment in the cloud
 https://colab.research.google.com/notebooks/welcome.ipynb
 
 <i> Other </i>
+
 Codewars: Coding exercises
 https://www.codewars.com/users/Jurian-k
 
