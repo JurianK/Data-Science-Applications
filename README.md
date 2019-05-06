@@ -29,6 +29,9 @@ https://drivendata.github.io/cookiecutter-data-science/#cookiecutter-data-scienc
 RISE: Jupyter notebook presentation
 https://bollwyvl.github.io/live_reveal/#/
 
+Jupytext: Git friendly Jupyter Notebooks
+https://github.com/mwouts/jupytext
+
 Colab: Free Jupyter environment in the cloud
 https://colab.research.google.com/notebooks/welcome.ipynb
 
